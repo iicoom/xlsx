@@ -1,4 +1,4 @@
-module github.com/Leo/xlsx
+module github.com/iicoom/xlsx
 
 go 1.16
 
